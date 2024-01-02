@@ -1,3 +1,3 @@
-# SkillFactory C#
+# SkillFactory (C#)
 ### education
 ---
