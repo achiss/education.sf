@@ -12,8 +12,6 @@ namespace training_code
             ShowUsersList(_usersList);
 
             UserVerify(_usersList);
-
-            Console.ReadKey();
         }
 
         private static void UserVerify(List<User> list)
